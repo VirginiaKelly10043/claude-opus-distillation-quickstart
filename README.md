@@ -1,6 +1,6 @@
 # Getting Started with Claude Opus 5.5 Distillation on the CC Channel via Vitas AI (www.aiwts.com)
 
-Distillation needs a teacher you can actually call at scale. Claude Opus 5.5 is Anthropic's flagship teacher model, and Vitas AI (www.aiwts.com) lets you reach it through the Claude Code (CC) compatible channel with full distillation support â no content filtering of teacher outputs, no throttling of training batches, no separate approval to request.
+Distillation needs a teacher you can actually call at scale. Claude Opus 5.5 is Anthropic's flagship teacher model, and Vitas AI (www.aiwts.com) lets you reach it through the Claude Code (CC) compatible channel with full distillation support — no content filtering of teacher outputs, no throttling of training batches, no separate approval to request.
 
 ## 1. Get your key and base URL
 
@@ -41,7 +41,7 @@ Collect the outputs, clean them, and use them to train your student model with y
 | Output | $20 |
 | Cache read | $0.2 |
 
-On Vitas AI, billing is RMB-denominated with no surprise currency conversion â check live rates at https://www.aiwts.com/pricing.
+On Vitas AI, billing is RMB-denominated with no surprise currency conversion — check live rates at https://www.aiwts.com/pricing.
 
 ## Start now
 
